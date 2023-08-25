@@ -1,6 +1,6 @@
 # 25 + 5 Clock
 
-- Complete Project
+- [Complete Project](https://njt123456.github.io/react-clock/)
 
 Drum Machine is a Front End Development Libraries Projects from freecodecamp.com.
 
